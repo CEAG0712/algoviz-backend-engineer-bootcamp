@@ -1,5 +1,5 @@
 {
-  "name": "algoviz-google-prep",
+  "name": "algoviz-backend-engineer-bootcamp",
   "version": "1.0.0",
   "description": "Algorithm visualization platform for Google interview preparation",
   "main": "dist/index.js",
